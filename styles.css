@@ -1,0 +1,132 @@
+.carpenter-body{
+    font-family: 'Pacifico', cursive;
+}
+.header-index{
+    background-image: url("images/wall_tools.jpg");
+    align-content: center;
+    width: 1024px;
+    height: 275px;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: 3px 3px 3px lightslategray;
+    
+}
+.container-main{
+    width: 1024px;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: 3px 3px 3px lightslategray;
+    background-color: antiquewhite;
+}
+.about-us-box{
+    background-color: whitesmoke;
+    min-height: auto;
+    width: auto;
+    display: flex;
+    justify-content:space-around;
+
+}
+.about-us-card1{
+    background-image: url("images/designer.jpg");
+    width: 1250px;
+    min-height: 340px;
+    margin: 15px;
+    box-shadow: 3px 3px 3px lightslategray;
+    color: ivory;
+    text-align: center;
+}
+.about-us-card2{
+    font-family: 'Pacifico', cursive;
+    font-size: 1.5rem;
+    min-height: auto;
+    width: auto;
+    margin: 15px;
+}
+.what-we-do{
+    background-color: floralwhite;
+    min-height: auto;
+    width: auto;
+    display: flex;
+    justify-content: space-around;
+
+}
+.whatwedo-card1{
+    font-family: 'Pacifico', cursive;
+    font-size: 1.75rem;
+    min-height: auto;
+    width: auto;
+    margin: 15px;
+    
+}
+.whatwedo-card2{
+    background-image: url("images/closet_two.jpg");
+    min-height: 425px;
+    width: 475px;
+    margin: 15px;
+    box-shadow: 3px 3px 3px lightslategray;
+    color: ivory;
+    text-align: center;
+}
+.what-we-offer{
+    min-height: auto;
+    width: auto;
+    display: flex;
+    justify-content: space-around;
+}
+.whatweoffer-card1{
+    background-image: url("images/cucina_two.jpg");
+    min-height: 333px;
+    width: 500px;
+    margin: 15px;
+    box-shadow: 3px 3px 3px lightslategray;
+    text-align: center;
+    color: ivory;
+}
+.whatweoffer-card2{
+    font-family: 'Pacifico', cursive;
+    font-size: 1.75rem;
+    min-height: auto;
+    width: auto;
+    margin: 15px;
+        
+}
+.titles{
+    padding-top: 40px;
+}
+.pabout-us{
+    padding-top: 75px;
+}
+.pwhatwedo{
+    padding-top: 150px;
+}
+.pwhatweoffer{
+    padding-top: 175px;
+
+}
+.headertitle{
+    color: ivory;
+    font-size: 50px;
+    padding-left: 25px;
+    padding-top: 30px;
+}
+.headersubtitle{
+    color:ivory;
+    position: relative;
+    left: 775px;
+    top: 120px;
+}
+.footer-carpenter{
+    background-color: ghostwhite;
+    padding-top: 25px;
+    box-shadow: 3px 3px 3px lightslategray;
+    padding-bottom: 15px;
+    width: 1024px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+.footer-icon{
+    width: 32px;
+    height: 32px;
+}
